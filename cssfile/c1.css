@@ -1,0 +1,29 @@
+/*.............tag.......................*/
+body{
+  background-color: #FFE3E3;
+}
+
+hr{
+  background-color: #FFE3E3;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #38A3A5;
+}
+h1
+{
+  color: #6ECB63;
+}
+h2
+{
+  color: #6ECB63;
+}
+/*....................class.................*/
+.pravat{
+  border-radius: 100%;
+  height: 200px;
+}
+.motorcycling:hover{
+  background-color: gold;
+}
